@@ -3,3 +3,4 @@
 target/
 *.un~
 lib_managed/
+out/
