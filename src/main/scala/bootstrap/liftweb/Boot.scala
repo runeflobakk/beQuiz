@@ -13,7 +13,7 @@ class Boot {
   
   
     // where to search snippet
-    LiftRules.addToPackages("bekk")
+    LiftRules.addToPackages("no.bekk")
 
     // build sitemap
     val entries = List(Menu("Home") / "index") :::

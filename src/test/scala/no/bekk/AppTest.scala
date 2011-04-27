@@ -1,6 +1,6 @@
 
 
-package bekk {
+package no.bekk {
 
 import java.io.File
 import junit.framework._
